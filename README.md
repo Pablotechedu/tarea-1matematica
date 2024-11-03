@@ -19,8 +19,8 @@ Si los ingresos están entre $20,000 y $50,000 (inclusive) y no tiene más de 2 
 Si tiene préstamos pero no es estudiante Si se cumple alguna de estas condiciones, la función retorna 'Moderate'.
 Si no se cumple ninguna de las condiciones anteriores, la función retorna 'Low', considerando al cliente de bajo riesgo.
 
-=============================================================================================================================================================================================================================================
-Explicación de la función:
+=======================================================================================================================================================================================
+Explicación de la función Motor de Recomendación de Productos:
 
 La función recommendProduct toma tres parámetros:
 
